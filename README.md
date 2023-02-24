@@ -1,0 +1,1 @@
+Run pub get to get dependencies to make the project runnable
